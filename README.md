@@ -18,7 +18,7 @@ Este projeto analisa a execução de algoritmos de ordenação utilizando um con
 
 ### Passos:
 
-- Clone o repositório: git clone https://github.com/Israelbcneto/LEDA_Passwords.2 
+- Clone o repositório: git clone https://github.com/Israelbcneto/ProjetoLeda_passwords2-main 
 
 - Abra o projeto na IDE.
 
